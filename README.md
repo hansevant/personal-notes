@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone this Repo first
 
-### `git clone https://github.com/hansevant/personal-notes.git`
+`git clone https://github.com/hansevant/personal-notes.git`
 
 then install dependencies
 
-### `npm install`
+`npm install`
 
 ## Available Scripts
 
