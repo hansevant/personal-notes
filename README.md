@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Clone this Repo first
+
+### `git clone https://github.com/hansevant/personal-notes.git`
+
+then install dependencies
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
